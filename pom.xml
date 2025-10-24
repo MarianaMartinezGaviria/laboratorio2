@@ -28,6 +28,9 @@
 	</scm>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>MarianaMartinezGaviria_laboratorio2</sonar.projectKey>
+		<sonar.organizatio>marianamartinezgaviria</sonar.organizatio>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
