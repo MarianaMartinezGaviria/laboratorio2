@@ -114,6 +114,7 @@ jobs:
         with:
           image: marianamartinezgaviria/laboratorio2
           tags: latest
+
           registry: docker.io
           dockerfile: Dockerfile
           username: ${{ secrets.DOCKER_USERNAME }}
